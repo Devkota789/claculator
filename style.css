@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(45deg, #FFD700, #00BFFF);
+}
+.outerdiv{
+    width: 280px;;
+    background-color:black;
+    margin: 56px;
+    padding: 5px;
+    border-radius: 9px;
+
+    
+}
+.cover{
+ background-color: #4b4a40;
+ height: 550px;
+}
+.key{
+    border: 20px;
+    margin: 30px;
+    padding: 10px;
+    font-size: large;
+    width: 30px;
+    height: fit-content;
+}
+.key:hover{
+    background-color: #FFD700;
+
+}
